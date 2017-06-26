@@ -1,0 +1,15 @@
+body {
+  background-color: #E1DFC3;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.btn{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.top{
+  display: flex;
+  justify-content: space-between;
+}
+.letter{
+  display: flex;
+  justify-content: space-around;
+}
